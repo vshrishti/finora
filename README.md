@@ -2,6 +2,14 @@
 
 A complete personal finance management application that helps users track income, expenses, savings, budgets, and spending patterns through an interactive dashboard.
 
+## Problem Statement
+
+Managing personal finances manually can make it difficult to
+track spending habits, monitor budgets, and understand savings
+patterns. Finora provides a centralized dashboard to record
+transactions, analyze expenses, and manage monthly budgets.
+
+
 ## Features
 
 - **Dashboard:** Overview of finances including total income, expenses, savings, savings rate, and budget usage.
